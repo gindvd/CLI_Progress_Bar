@@ -1,4 +1,4 @@
-# CLI_progress_bar
+# CLI Progress Bar
 
 ## Description:
 A simple progress bar rendered on the CLI.
